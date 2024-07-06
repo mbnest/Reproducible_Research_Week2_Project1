@@ -63,7 +63,7 @@ Make a histogram of the total number of steps taken each day and Calculate and r
 
 ## Are there differences in activity patterns between weekdays and weekends?
 For this part the 
-weekdays()
+**weekdays()**
 weekdays() function may be of some help here. Use the dataset with the filled-in missing values for this part.
 
 Create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
